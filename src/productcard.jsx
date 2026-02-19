@@ -1,4 +1,4 @@
-import './ProductCard.css';
+import './productcard.css';
 
 const ProductCard = ({ name, price, inStock }) => {
   return (
