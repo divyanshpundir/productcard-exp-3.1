@@ -1,0 +1,9 @@
+.dashboard-grid {
+  display: flex;
+  gap: 20px;
+  padding: 40px;
+  justify-content: center;
+  flex-wrap: wrap; /* Makes it responsive */
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
